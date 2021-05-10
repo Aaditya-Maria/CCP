@@ -13,6 +13,6 @@ int main()
         printf("%d is Largest",b);
     }
     return(0);
+    getch();
 
 }
-getch();
