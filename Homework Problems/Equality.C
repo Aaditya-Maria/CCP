@@ -13,5 +13,5 @@ int main()
     {
         printf("Two Numbers are not equal");
     }
+    getch();
 }
-getch();
