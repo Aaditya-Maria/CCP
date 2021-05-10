@@ -8,6 +8,7 @@ float main()
     multi=a*i;
     printf("Multiplication of two floating Numbers %f and %f is %f",a,i,multi);
     return 0;
+    getch();
 
 }
-getch();
+
