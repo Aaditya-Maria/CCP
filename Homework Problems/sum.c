@@ -9,6 +9,6 @@ int main()
     }
     printf("Sum of first 10 Natural Numbers is %d",sum);
     return 0;
+    getch();
 
 }
-getch();
