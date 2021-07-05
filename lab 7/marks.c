@@ -7,7 +7,11 @@ int main()
 	for(i=0;i<4;i++)
 	{
 		for(j=0;j<3;j++)
-		scanf("%d",&marks[i][j]);
+		{
+			printf("Enter the Marks of Student:%d and Subject:%d\t",i+1,j+1);
+			scanf("%d",&marks[i][j]);
+		}
+
 	}
 	for(j=0;j<3;j++)
 	{
